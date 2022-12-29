@@ -1,0 +1,4 @@
+Thank you Jesus for giving me the grace to be able to learn this git and github repository
+I love that i am getting it very well with what i am doing.
+Infact my next move will be to save this file to the repository and push it up to the remote server
+Check this command to push my file, git push -u origin lesson
